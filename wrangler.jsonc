@@ -1,1 +1,7 @@
-
+{
+  "name": "coverpage-maker",
+  "compatibility_date": "2026-11-21",
+  "assets": {
+    "directory": "."
+  }
+}
