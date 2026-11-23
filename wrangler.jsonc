@@ -1,7 +1,16 @@
 {
   "name": "coverpage-maker",
+  "main": "worker.js",
   "compatibility_date": "2026-11-21",
   "assets": {
-    "directory": "."
-  }
+    "directory": ".",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "portfolio-db",
+      "database_id": "51e215de-5a85-414d-8ccd-8bcf6d8235dc"
+    }
+  ]
 }
